@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.spotifyglass.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "AvatarRendererMixin",
+    "AvatarRenderStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
