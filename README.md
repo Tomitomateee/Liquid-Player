@@ -8,8 +8,8 @@ Medien-Fenster bei den Lautstärketasten) und startet Songs im Hintergrund, Mine
 
 1. Fabric Loader und **Fabric API** für deine Version installieren.
 2. Die passende Jar aus den [Releases](https://github.com/Tomitomateee/Liquid-Player/releases) in den `mods`-Ordner kopieren:
-   - 1.21.11: `liquid-player-1.0.0.jar`
-   - 26.1: `liquid-player-1.0.0+26.1.jar`
+   - 1.21.11: `liquid-player-1.4.0.jar`
+   - 26.1: `liquid-player-1.4.0+26.1.jar`
 3. Spotify-Desktop-App unter **Windows** starten, Minecraft starten, **P** drücken.
 
 ## Funktionen
