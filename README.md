@@ -45,3 +45,8 @@ cd mc-26.1 && gradlew build
 
 Eine vollständige Beschreibung der Mod (Aufbau, Technik, Fallstricke) steht in
 [`LIQUID-PLAYER-PROMPT.md`](LIQUID-PLAYER-PROMPT.md).
+
+## Weitere Mod in diesem Repo: AFK Cinematic
+
+Im Ordner [`afk-cinematic/`](afk-cinematic/README.md) liegt eine eigenständige Fabric-Mod (1.21.11):
+Wenn du AFK bist, filmt eine Kamera deinen Charakter im Takt deiner Musik, mit synchronen Lyrics.

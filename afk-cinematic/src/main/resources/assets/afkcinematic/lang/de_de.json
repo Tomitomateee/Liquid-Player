@@ -1,0 +1,25 @@
+{
+  "key.category.afkcinematic.main": "AFK Cinematic",
+  "key.afkcinematic.toggle": "Cinematic-Modus an/aus",
+
+  "config.afkcinematic.title": "AFK Cinematic",
+  "config.afkcinematic.general": "Allgemein",
+  "config.afkcinematic.camera": "Kamera",
+  "config.afkcinematic.music": "Musik & Lyrics",
+  "config.afkcinematic.look": "Look",
+  "config.afkcinematic.autoStart": "Bei AFK automatisch starten",
+  "config.afkcinematic.autoStart.tooltip": "Aus: nur noch per Tastenkürzel (Standard: K)",
+  "config.afkcinematic.afkSeconds": "AFK-Zeit",
+  "config.afkcinematic.cameraDistance": "Kamera-Abstand (Blöcke)",
+  "config.afkcinematic.orbitSpeed": "Orbit-Geschwindigkeit",
+  "config.afkcinematic.barsPerShot": "Takte pro Einstellung",
+  "config.afkcinematic.barsPerShot.tooltip": "Nach so vielen Takten wechselt der Kamera-Modus (bei Drops sofort)",
+  "config.afkcinematic.beatStrength": "Beat-Stärke",
+  "config.afkcinematic.musicThreshold": "Lautstärke-Schwelle",
+  "config.afkcinematic.musicThreshold.tooltip": "Ab diesem Pegel gilt Ton als Musik. Höher stellen, wenn Hintergrundgeräusche Beat-Effekte auslösen.",
+  "config.afkcinematic.lyrics": "Lyrics anzeigen",
+  "config.afkcinematic.fontScale": "Schriftgröße",
+  "config.afkcinematic.songInfo": "Titel & Künstler oben links",
+  "config.afkcinematic.letterbox": "Kinobalken",
+  "config.afkcinematic.vignette": "Vignette"
+}

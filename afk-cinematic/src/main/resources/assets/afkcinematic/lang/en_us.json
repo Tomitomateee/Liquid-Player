@@ -1,0 +1,25 @@
+{
+  "key.category.afkcinematic.main": "AFK Cinematic",
+  "key.afkcinematic.toggle": "Toggle cinematic mode",
+
+  "config.afkcinematic.title": "AFK Cinematic",
+  "config.afkcinematic.general": "General",
+  "config.afkcinematic.camera": "Camera",
+  "config.afkcinematic.music": "Music & Lyrics",
+  "config.afkcinematic.look": "Look",
+  "config.afkcinematic.autoStart": "Start automatically when AFK",
+  "config.afkcinematic.autoStart.tooltip": "Off: only via the hotkey (default: K)",
+  "config.afkcinematic.afkSeconds": "AFK time",
+  "config.afkcinematic.cameraDistance": "Camera distance (blocks)",
+  "config.afkcinematic.orbitSpeed": "Orbit speed",
+  "config.afkcinematic.barsPerShot": "Bars per shot",
+  "config.afkcinematic.barsPerShot.tooltip": "The camera mode changes after this many bars (immediately on drops)",
+  "config.afkcinematic.beatStrength": "Beat strength",
+  "config.afkcinematic.musicThreshold": "Volume threshold",
+  "config.afkcinematic.musicThreshold.tooltip": "Sound above this level counts as music. Raise it if background noise triggers beat effects.",
+  "config.afkcinematic.lyrics": "Show lyrics",
+  "config.afkcinematic.fontScale": "Font size",
+  "config.afkcinematic.songInfo": "Title & artist in the top left",
+  "config.afkcinematic.letterbox": "Cinema bars",
+  "config.afkcinematic.vignette": "Vignette"
+}
